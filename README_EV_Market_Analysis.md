@@ -49,12 +49,8 @@ that report snapshot. They may change when the dataset is refreshed.
 
 ## 🖼️ Dashboard Preview
 
-![Electric Vehicle Market Analysis
-Dashboard](assets/PowerBI_Dashboard.png)
+<img width="1417" height="807" alt="PowerBI_Dashboard" src="https://github.com/user-attachments/assets/7183f6a7-45cd-47d6-9fdf-04d42992149b" />
 
-> Upload your dashboard screenshot to the repository at
-> `assets/PowerBI_Dashboard.png` for this preview to display. Create an
-> `assets` folder if needed.
 
 ## 📂 Dataset
 
