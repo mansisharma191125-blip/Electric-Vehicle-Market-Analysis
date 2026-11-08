@@ -151,22 +151,6 @@ Format the percentage measure as **Percentage** in Power BI.
 5.  Use the slicers to explore the report by city, electric utility, and
     vehicle type.
 
-## 📁 Suggested Repository Structure
-
-``` text
-Electric-Vehicle-Market-Analysis/
-├── EV_Market_Analysis.pbix
-├── README.md
-├── Problem_Statement.docx
-├── assets/
-│   └── PowerBI_Dashboard.png
-└── data/
-    └── README.md
-```
-
-The dataset can be downloaded from Kaggle using the source link above.
-If you do not commit the CSV to GitHub, keep it locally and update the
-file path in Power BI when refreshing.
 
 ## 💡 Skills Demonstrated
 
